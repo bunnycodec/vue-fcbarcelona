@@ -1,4 +1,3 @@
 # vue-fcbarcelona
 
-Live at ...
-https://sun42ny.github.io/vue-fcbarcelona/
+I am Here : https://bunnycodec.github.io/vue-fcbarcelona/
